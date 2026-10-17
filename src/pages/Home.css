@@ -86,6 +86,24 @@
 	border-bottom: 1px solid var(--line-soft);
 }
 
+.branch-banner {
+	display: inline-flex;
+	align-items: center;
+	padding: 8px 14px;
+	margin: 12px 0 0;
+	border-radius: 999px;
+	font-size: 12px;
+	font-weight: 800;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.branch-banner-dev {
+	background: rgba(20, 83, 70, 0.12);
+	border: 1px solid rgba(20, 83, 70, 0.35);
+	color: #174d42;
+}
+
 .header-chip {
 	display: inline-flex;
 	align-items: center;

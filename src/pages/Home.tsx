@@ -22,6 +22,7 @@ const Home: React.FC = () => {
         <main className="presentation-shell">
           <header className="presentation-header">
             <div className="header-chip">GIT · DESARROLLO</div>
+            <div className="branch-banner branch-banner-dev">Rama desarrollo • integración y nuevas funciones</div>
             <h1>
               La práctica demuestra
               <span className="title-highlight">subir un proyecto, crear ramas y organizar tareas</span>
