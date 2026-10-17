@@ -22,6 +22,7 @@ const Home: React.FC = () => {
         <main className="presentation-shell">
           <header className="presentation-header">
             <div className="header-chip">GIT · DESARROLLO</div>
+            <div className="development-note">Versión de desarrollo: revisión funcional y pruebas de integración.</div>
             <h1>
               La práctica demuestra
               <span className="title-highlight">subir un proyecto, crear ramas y organizar tareas</span>
